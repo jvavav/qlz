@@ -1,3 +1,3 @@
 # Summary
 
-- [1](./1.md)
+- [入门](./getting-started.md)
