@@ -1,0 +1,20 @@
+[book]
+authors = ["na3k"]
+language = "zh-Hans-CN"
+multilingual = false
+src = "src"
+title = "Jvavav"
+
+[rust]
+edition = "2021"
+
+[output.html]
+additional-css = ["./theme/catppuccin.css", "./theme/catppuccin-admonish.css"]
+
+[output.html.search]
+enable = false
+
+[preprocessor]
+
+[preprocessor.catppuccin]
+assets_version = "2.1.0" # DO NOT EDIT: Managed by `mdbook-catppuccin install`
