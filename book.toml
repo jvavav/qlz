@@ -11,6 +11,7 @@ edition = "2021"
 [output.html]
 additional-css = ["./theme/catppuccin.css", "./theme/catppuccin-admonish.css"]
 git-repository-url = "https://github.com/jvavav/qlz"
+git_repository_edit_url = "https://github.com/jvavav/qlz/edit/main/{path}"
 copy_fonts = true
 search_js = false
 
