@@ -4,6 +4,7 @@ language = "zh-Hans-CN"
 multilingual = false
 src = "src"
 title = "Jvavav"
+description = "Jvavav"
 
 [rust]
 edition = "2021"
